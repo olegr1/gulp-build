@@ -58,7 +58,7 @@ gulp.task('html', () => {
 
 //Watch fro changes in any SASS file and run the styles task
 gulp.task('watch', function() {
-    gulp.watch('./sass/**/*.scss', ['styles'])        
+    gulp.watch('./sass/**', ['styles'])        
 });
 
 //Serve the /dist folder at http://localhost:3000
