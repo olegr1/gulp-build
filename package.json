@@ -11,15 +11,16 @@
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-clean": "^0.3.2",
+    "gulp-clean-css": "^3.7.0",
     "gulp-concat": "^2.6.1",
-    "gulp-html-replace": "^1.6.2",
+    "gulp-connect": "^5.0.0",
+    "gulp-imagemin": "^3.3.0",
     "gulp-rename": "^1.2.2",
+    "gulp-replace": "^0.6.1",
+    "gulp-sass": "^3.1.0",
     "gulp-sourcemaps": "^2.6.0",
     "gulp-uglify": "^3.0.0",
     "gulp-webserver": "^0.9.1"
   },
-  "dependencies": {
-    "gulp-sass": "^3.1.0",
-    "gulp-uglifycss": "^1.0.8"
-  }
+  "dependencies": {}
 }
