@@ -56,7 +56,7 @@ gulp.task('html', () => {
         .pipe(gulp.dest('./dist/'));
 });
 
-//Watch fro changes in any SASS file and run the styles task
+//Watch for changes in any SASS file and run the styles task
 gulp.task('watch', function() {
     gulp.watch('./sass/**', ['styles'])        
 });
