@@ -4,7 +4,7 @@
   "description": "Treehouse Techdegree project: Using Gulp to Build a Front End Website",
   "main": "",
   "scripts": {
-    "gulp": "gulp" //Run Gulp commands with "npm run gulp ..." using the local version of Gulp
+    "gulp": "gulp"
   },
   "author": "Oleg Rybin",
   "license": "ISC",
